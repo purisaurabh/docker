@@ -212,7 +212,7 @@ docker build -t docker_image_name .
 
 3. Named Volumes
 
--You can reference the volume by names
+- You can reference the volume by names
 
 - should be use in production
 
